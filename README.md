@@ -1,6 +1,6 @@
-## Olá! Eu sou a Sara Mendes
+## Hi! I'm Sara Mendes
 
- ⚡ Estudante de Engenharia da Computação
+ ⚡ I'm studying Computer Engineering at CEFET/RJ
 
 <div align="center">
   <a href="https://github.com/Sara-AMendes">
